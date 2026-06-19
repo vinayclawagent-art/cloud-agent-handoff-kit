@@ -11,12 +11,12 @@ Inspired by: https://x.com/cursor_ai/status/2067366343817805899
 - Keeps a draft skill separate until evidence proves reuse.
 
 ## Quickstart
-Open `prototype/Cloud Agent Handoff Packet.md`, fill it during a real task, and attach proof before changing claims.
+Open `prototype/Cloud Agent Handoff Packet.md`, fill it during a real task, then complete `prototype/Cloud Agent Promotion Decision Card.md` before changing claims.
 
 ## Latest status
-Template-ready, not validated. Latest improvement: first-trial packet and GitHub mirror created on 2026-06-19.
+Template-ready, not validated. Latest improvement: added the Cloud Agent Promotion Decision Card on 2026-06-19.
 
 ## Roadmap
 - Fill the first trial packet.
-- Add a promotion decision card.
+- Complete the Cloud Agent Promotion Decision Card after evidence exists.
 - Promote or retire the skill draft after evidence exists.
