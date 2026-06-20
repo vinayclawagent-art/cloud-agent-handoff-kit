@@ -6,7 +6,7 @@ package: "[[Cloud Agent Handoff Kit]]"
 github_repo: "https://github.com/vinayclawagent-art/cloud-agent-handoff-kit"
 cadence: nightly
 last_improved: 2026-06-20
-next_focus: "Run the next real cloud-agent delegation trial, fill [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]], then complete the promotion card and debrief before patching claims."
+next_focus: "Run the next real cloud-agent delegation trial, fill [[Cloud Agent Handoff Kit/Trial Evidence Index]] and [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]], then complete the promotion card and debrief before patching claims."
 tags: [improvement-loop, x-artifact-factory]
 ---
 
@@ -17,10 +17,10 @@ Package: [[Cloud Agent Handoff Kit]]
 Prototype: [[Cloud Agent Handoff Kit/Cloud Agent Handoff Packet]]
 
 ## Current state
-Template-ready, not validated. The package, prototype packet, promotion decision card, post-trial debrief, trial operator handoff checklist, evidence quality rubric, infographic, skill draft, and GitHub repo mirror exist.
+Template-ready, not validated. The package, prototype packet, promotion decision card, post-trial debrief, trial operator handoff checklist, trial evidence index, evidence quality rubric, infographic, skill draft, and GitHub repo mirror exist.
 
 ## Next focus
-Run the next real cloud-agent delegation trial, fill [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]], then complete the promotion card and debrief before patching claims.
+Run the next real cloud-agent delegation trial, fill [[Cloud Agent Handoff Kit/Trial Evidence Index]] and [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]], then complete the promotion card and debrief before patching claims.
 
 ## Evidence needed
 - Real input/example.
@@ -29,6 +29,7 @@ Run the next real cloud-agent delegation trial, fill [[Cloud Agent Handoff Kit/C
 - Promote / iterate / hold decision.
 
 ## Change log
+- 2026-06-20: Added [[Cloud Agent Handoff Kit/Trial Evidence Index]] to map future repo/task proof artifacts to exact claim patches; template-ready/evidence-pending, not validated.
 - 2026-06-20: Added [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]] to grade future proof before any claim patches; template-ready/evidence-pending, not validated.
 - 2026-06-20: Added [[Cloud Agent Handoff Kit/Trial Operator Handoff Checklist]] to sequence the next real cloud-agent delegation trial; prepared/operator-ready, not validated.
 - 2026-06-19: Added [[Cloud Agent Handoff Kit/Cloud Agent Promotion Decision Card]] as the post-trial decision gate; prepared, not validated.
