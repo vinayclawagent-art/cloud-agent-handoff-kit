@@ -11,10 +11,13 @@ Inspired by: https://x.com/cursor_ai/status/2067366343817805899
 - Keeps a draft skill separate until evidence proves reuse.
 
 ## Quickstart
-Open `prototype/Cloud Agent Handoff Packet.md`, fill it during a real task, then complete `prototype/Cloud Agent Promotion Decision Card.md` before changing claims.
+Open prototype/Trial Operator Handoff Checklist.md first, then fill prototype/Cloud Agent Handoff Packet.md during a real repo task, complete prototype/Cloud Agent Promotion Decision Card.md, and finish prototype/Cloud Handoff Post-Trial Debrief Template.md before changing claims.
 
 ## Latest status
-Template-ready, not validated. Latest improvement: 2026-06-20 added Cloud Handoff Post-Trial Debrief Template as the post-trial evidence-to-patch gate; evidence pending.
+Template-ready, not validated. Latest improvement: 2026-06-20 added Trial Operator Handoff Checklist as the operator-ready sequence for the handoff packet, promotion card, and debrief; evidence pending.
+
+## Next focus
+Use the handoff checklist for the next real cloud-agent delegation trial and patch README/prototype/skill claims from evidence only.
 
 ## Roadmap
 - Fill the first trial packet.
