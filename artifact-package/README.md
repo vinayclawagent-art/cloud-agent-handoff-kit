@@ -6,7 +6,7 @@ source_url: "https://x.com/cursor_ai/status/2067366343817805899"
 score: 9
 artifact_tracks: [prototype, infographic, skill, improvement-loop]
 improvement_cadence: nightly
-last_improved: 2026-06-19
+last_improved: 2026-06-20
 github_repo: "https://github.com/vinayclawagent-art/cloud-agent-handoff-kit"
 tags: [artifact-package, x-intel, cloud-agents, coding-agents, handoffs]
 ---
@@ -37,6 +37,8 @@ Explain the source idea as a compact workflow Vinay can scan from Obsidian or Gi
 ## Skill candidate
 Drafted under `Artifacts/Skills/cloud-agent-handoff-procedure/SKILL.md`; keep as draft until a real trial proves the procedure is reusable and non-duplicative.
 
+- Post-trial debrief: [[Cloud Agent Handoff Kit/Cloud Handoff Post-Trial Debrief Template|Cloud Handoff Post-Trial Debrief Template]]
+
 ## Improvement backlog
 - [ ] Run the first real trial and attach screenshots, logs, repo links, or generated outputs.
 - [ ] Complete [[Cloud Agent Handoff Kit/Cloud Agent Promotion Decision Card]] after the first evidence packet is filled.
@@ -48,3 +50,4 @@ https://github.com/vinayclawagent-art/cloud-agent-handoff-kit
 ## Change log
 - 2026-06-19: Added [[Cloud Agent Handoff Kit/Cloud Agent Promotion Decision Card]] as the post-trial decision gate; prepared, not validated.
 - 2026-06-19: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.
+- 2026-06-20: Added [[Cloud Agent Handoff Kit/Cloud Handoff Post-Trial Debrief Template|Cloud Handoff Post-Trial Debrief Template]] as the evidence-to-patch debrief gate; prepared, not validated.

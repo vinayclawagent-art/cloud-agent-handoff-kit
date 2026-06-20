@@ -2,7 +2,7 @@
 
 Source: [[Cursor Cloud Subagents From Phone to PR]]
 
-Latest improvement: 2026-06-19 added [[Cloud Agent Handoff Kit/Cloud Agent Promotion Decision Card]] so future cloud-agent handoffs have a promote / pilot-only / iterate / hold gate. Template-ready, not validated.
+Latest improvement: 2026-06-20 added `Cloud Handoff Post-Trial Debrief Template.md` as the post-trial evidence-to-patch debrief gate; evidence still pending.
 
 ## What it demonstrates
 A ready-to-fill handoff packet for delegating one repo task to a cloud coding agent and accepting only evidence-backed PRs.

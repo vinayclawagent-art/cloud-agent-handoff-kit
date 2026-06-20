@@ -14,7 +14,7 @@ Inspired by: https://x.com/cursor_ai/status/2067366343817805899
 Open `prototype/Cloud Agent Handoff Packet.md`, fill it during a real task, then complete `prototype/Cloud Agent Promotion Decision Card.md` before changing claims.
 
 ## Latest status
-Template-ready, not validated. Latest improvement: added the Cloud Agent Promotion Decision Card on 2026-06-19.
+Template-ready, not validated. Latest improvement: 2026-06-20 added Cloud Handoff Post-Trial Debrief Template as the post-trial evidence-to-patch gate; evidence pending.
 
 ## Roadmap
 - Fill the first trial packet.
