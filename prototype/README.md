@@ -2,7 +2,7 @@
 
 Source: [[Cursor Cloud Subagents From Phone to PR]]
 
-Latest improvement: 2026-06-20 added `Trial Operator Handoff Checklist.md` to sequence the handoff packet, promotion card, and debrief before any claim changes; evidence still pending.
+Latest improvement: 2026-06-20 added Cloud Handoff Evidence Quality Rubric so future repo/task proof is graded before any README, prototype, or skill-draft claims change; evidence still pending.
 
 ## What it demonstrates
 A ready-to-fill handoff packet for delegating one repo task to a cloud coding agent and accepting only evidence-backed PRs.
@@ -12,9 +12,11 @@ A ready-to-fill handoff packet for delegating one repo task to a cloud coding ag
 2. Open [[Cloud Agent Handoff Kit/Cloud Agent Handoff Packet]].
 3. Fill it during one real task.
 4. Attach concrete proof links before changing claims in the package README or skill draft.
-5. Complete [[Cloud Agent Handoff Kit/Cloud Agent Promotion Decision Card]] to decide promote / pilot-only / iterate / hold.
-6. Fill [[Cloud Agent Handoff Kit/Cloud Handoff Post-Trial Debrief Template]] before patching public claims.
+5. Grade the proof with [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]].
+6. Complete [[Cloud Agent Handoff Kit/Cloud Agent Promotion Decision Card]] to decide promote / pilot-only / iterate / hold.
+7. Fill [[Cloud Agent Handoff Kit/Cloud Handoff Post-Trial Debrief Template]] before patching public claims.
 
 ## Next iteration ideas
-- Run the handoff checklist during the first real cloud-agent delegation trial.
-- Add an evidence index if multiple proof artifacts are collected.
+- Run the handoff checklist during the first real trial.
+- Fill [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]] from real evidence before patching README/prototype/skill-draft claims.
+- Add a separate evidence index if multiple proof artifacts are collected.

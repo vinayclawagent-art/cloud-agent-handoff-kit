@@ -25,6 +25,7 @@ Cursor cloud agents make phone-to-PR delegation real; this kit defines the hando
 - Prototype: [[Cloud Agent Handoff Kit/Cloud Agent Handoff Packet]]
 - Promotion gate: [[Cloud Agent Handoff Kit/Cloud Agent Promotion Decision Card]]
 - Operator handoff: [[Cloud Agent Handoff Kit/Trial Operator Handoff Checklist]]
+- Evidence gate: [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]]
 - Infographic: [[Cloud Agent Handoff Kit/Phone to PR Workflow]]
 - Skill draft: [[cloud-agent-handoff-procedure/SKILL]]
 - Improvement loop: [[Cloud Agent Handoff Kit Loop]]
@@ -44,12 +45,14 @@ Drafted under `Artifacts/Skills/cloud-agent-handoff-procedure/SKILL.md`; keep as
 - [ ] Run the first real trial and attach screenshots, logs, repo links, or generated outputs.
 - [ ] Complete [[Cloud Agent Handoff Kit/Cloud Agent Promotion Decision Card]] after the first evidence packet is filled.
 - [x] Add a trial operator handoff checklist to sequence packet, proof capture, promotion gate, and debrief.
+- [ ] Grade future trial proof with [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]] before patching claims.
 - [ ] Patch the skill draft only after evidence shows the workflow works.
 
 ## GitHub repo
 https://github.com/vinayclawagent-art/cloud-agent-handoff-kit
 
 ## Change log
+- 2026-06-20: Added [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]] so future trial proof is graded before README/prototype/skill-draft claims change; template-ready and evidence-pending.
 - 2026-06-20: Added [[Cloud Agent Handoff Kit/Trial Operator Handoff Checklist|Trial Operator Handoff Checklist]] so the next operator can run the packet, promotion card, and debrief in order; prepared, not validated.
 - 2026-06-19: Added [[Cloud Agent Handoff Kit/Cloud Agent Promotion Decision Card]] as the post-trial decision gate; prepared, not validated.
 - 2026-06-19: Created package, prototype packet, infographic, skill draft, GitHub repo mirror, and improvement loop. Template-ready, not validated.
