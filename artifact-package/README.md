@@ -6,7 +6,7 @@ source_url: "https://x.com/cursor_ai/status/2067366343817805899"
 score: 9
 artifact_tracks: [prototype, infographic, skill, improvement-loop]
 improvement_cadence: nightly
-last_improved: 2026-06-20
+last_improved: 2026-06-21
 github_repo: "https://github.com/vinayclawagent-art/cloud-agent-handoff-kit"
 tags: [artifact-package, x-intel, cloud-agents, coding-agents, handoffs]
 ---
@@ -27,6 +27,7 @@ Cursor cloud agents make phone-to-PR delegation real; this kit defines the hando
 - Operator handoff: [[Cloud Agent Handoff Kit/Trial Operator Handoff Checklist]]
 - Evidence index: [[Cloud Agent Handoff Kit/Trial Evidence Index]]
 - Evidence gate: [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]]
+- Claim-to-patch ledger: [[Cloud Agent Handoff Kit/Claim-to-Patch Ledger]]
 - Infographic: [[Cloud Agent Handoff Kit/Phone to PR Workflow]]
 - Skill draft: [[cloud-agent-handoff-procedure/SKILL]]
 - Improvement loop: [[Cloud Agent Handoff Kit Loop]]
@@ -48,12 +49,14 @@ Drafted under `Artifacts/Skills/cloud-agent-handoff-procedure/SKILL.md`; keep as
 - [x] Add a trial operator handoff checklist to sequence packet, proof capture, promotion gate, and debrief.
 - [x] Add a trial evidence index to map future proof to claim patches.
 - [ ] Grade future trial proof with [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]] before patching claims.
+- [x] Add [[Cloud Agent Handoff Kit/Claim-to-Patch Ledger]] to convert future proof into explicit README/prototype/skill patch decisions.
 - [ ] Patch the skill draft only after evidence shows the workflow works.
 
 ## GitHub repo
 https://github.com/vinayclawagent-art/cloud-agent-handoff-kit
 
 ## Change log
+- 2026-06-21: Added [[Cloud Agent Handoff Kit/Claim-to-Patch Ledger]] to map future evidence and rubric notes into exact README/prototype/skill patch decisions; template-ready and evidence-pending.
 - 2026-06-20: Added [[Cloud Agent Handoff Kit/Trial Evidence Index]] so future repo/task evidence is mapped to exact claim patches before any README/prototype/skill wording changes; template-ready and evidence-pending.
 - 2026-06-20: Added [[Cloud Agent Handoff Kit/Cloud Handoff Evidence Quality Rubric]] so future trial proof is graded before README/prototype/skill-draft claims change; template-ready and evidence-pending.
 - 2026-06-20: Added [[Cloud Agent Handoff Kit/Trial Operator Handoff Checklist|Trial Operator Handoff Checklist]] so the next operator can run the packet, promotion card, and debrief in order; prepared, not validated.
